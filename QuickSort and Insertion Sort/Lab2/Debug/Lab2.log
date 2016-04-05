@@ -1,0 +1,7 @@
+﻿  sorts.cpp
+  main.cpp
+  Generating Code...
+cl : Command line warning D9028: minimal rebuild failure, reverting to normal build
+  LINK : F:\Dropbox\Documents\Git\quickSortInsertionSort\QuickSort and Insertion Sort\Debug\Lab2.exe not found or not built by the last incremental link; performing full link
+  Lab2.vcxproj -> F:\Dropbox\Documents\Git\quickSortInsertionSort\QuickSort and Insertion Sort\Debug\Lab2.exe
+  Lab2.vcxproj -> F:\Dropbox\Documents\Git\quickSortInsertionSort\QuickSort and Insertion Sort\Debug\Lab2.pdb (Partial PDB)
